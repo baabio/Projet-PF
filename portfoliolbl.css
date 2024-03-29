@@ -35,7 +35,6 @@ body {
     font-size: 36px !important;
     font-family: "VT323", monospace !important;
     font: none !important;
-    color: white !important;
 }
 
 .links p {
@@ -51,29 +50,10 @@ body {
     color: #3D87CC !important;
 }
 
-    
+#lego{
+   display: block !important;
+   margin: auto !important;
 
-.cont {
-    display: inline-block !important;
-    position: relative !important;
-    margin-left: 25% !important; 
-    
-}
-.cont .text {
-    position: absolute !important;
-    text-align: center !important;
-    left: 0 !important;
-    right: 0 !important;
-    font-family: "VT323", monospace !important;
-    top: 30% !important;
-    color: white !important;
-
-}
-#t1{
-    font-size: 72px !important;
-}
-#t2{
-    font-size: 48px !important;
 }
 
 .allmenu{
@@ -85,4 +65,24 @@ body {
 
     display: block !important; 
     margin: auto !important;
+}
+.contact{
+    background-color: black;
+}
+#contactt{
+    text-align: center;
+    color: #85EA74;
+    font-size: 56px;
+}
+.txtcontact{
+    font-family: "VT323", monospace !important;
+}
+.elt{
+    color: white;
+    font-size: 48px;
+    
+}
+.pos{
+    display: inline;
+   
 }
