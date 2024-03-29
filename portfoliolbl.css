@@ -1,3 +1,4 @@
+/* LEO */
 body{
     background-color: #897E7E !important;
 }
@@ -86,3 +87,23 @@ body {
     display: inline;
    
 }
+/* LEO */
+
+
+
+
+/* BABACAR */
+.rouge{
+    color: red;
+    font-weight: bold;
+}
+.bleu{
+    color: blue;
+    font-weight: bold;
+}
+.purple{
+    color: rgb(82, 48, 233);
+    font-weight: bold;
+}
+
+/* BABACAR */
