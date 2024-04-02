@@ -13,12 +13,6 @@ body {
     font-family: Arial, sans-serif !important;
 }
 
-.navbar {
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 10px 20px !important;
-}
 
 .logo {
     font-size: 56px !important;
@@ -43,8 +37,8 @@ body {
     cursor: pointer !important;
 }
 
-.links p:hover {
-    
+.nav-link:hover{
+    color: #F24E1E !important;
 }
 
 .pb{
@@ -54,6 +48,7 @@ body {
 #lego{
    display: block !important;
    margin: auto !important;
+   padding-top: 100px;
 
 }
 
@@ -77,6 +72,9 @@ body {
 }
 .txtcontact{
     font-family: "VT323", monospace !important;
+    text-align: center;
+    color: #85EA74;
+    font-size: 56px;
 }
 .elt{
     color: white;
